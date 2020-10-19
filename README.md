@@ -4,8 +4,8 @@ The homework for 5001
 ## Bash script.sh
 The code for question 2. <br><br>
 (1) copy this file in a linux OS <br><br>
-(2) run Bash_script.sh<br>
-```bash Bash_script.sh```
+(2) run bash_script.sh<br>
+```bash bash_script.sh```
 <br><br>
 (3) check the output <br>
 ``` ls ```<br>
